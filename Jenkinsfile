@@ -17,6 +17,9 @@ pipeline {
     GITLAB_TOKEN=credentials('b6f0f1dd-6952-4cf6-95d1-9c06380283f0')
     GITLAB_NAMESPACE=credentials('gitlab-namespace-id')
     DOCKERHUB_TOKEN=credentials('docker-hub-ci-pat')
+    EXT_GIT_BRANCH = 'master'
+    EXT_USER = 'KRTirtho'
+    EXT_REPO = 'spotube'
     BUILD_VERSION_ARG = 'SPOTUBE_VERSION'
     LS_USER = 'linuxserver'
     LS_REPO = 'docker-spotube'
