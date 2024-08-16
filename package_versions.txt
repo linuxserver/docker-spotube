@@ -68,7 +68,7 @@ brace-expansion                                                               2.
 bsd-mailx                                                                     8.1.2-0.20220412cvs-1                   deb                          
 bsdextrautils                                                                 2.38.1-5+deb12u1                        deb                          
 bsdutils                                                                      1:2.38.1-5+deb12u1                      deb                          
-bubblewrap                                                                    0.8.0-2                                 deb                          
+bubblewrap                                                                    0.8.0-2+deb12u1                         deb                          
 builtins                                                                      5.1.0                                   npm                          
 bytes                                                                         3.1.2                                   npm                          
 ca-certificates                                                               20230311                                deb                          
