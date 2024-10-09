@@ -325,4 +325,5 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **09.10.24:** - Add aarch64 support.
 * **26.04.24:** - Initial release.
