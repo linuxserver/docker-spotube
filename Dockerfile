@@ -1,3 +1,5 @@
+# syntax=docker/dockerfile:1
+
 FROM ghcr.io/linuxserver/baseimage-kasmvnc:debianbookworm
 
 # set version label
@@ -26,6 +28,7 @@ RUN \
     "https://github.com/KRTirtho/spotube/releases/download/${SPOTUBE_VERSION}/Spotube-linux-x86_64.deb" && \
   apt install -y --no-install-recommends \
     /tmp/spotube.deb && \
+  printf "Linuxserver.io version: ${VERSION}\nBuild-date: ${BUILD_DATE}" > /build_version && \
   echo "**** cleanup ****" && \
   apt-get autoclean && \
   rm -rf \
