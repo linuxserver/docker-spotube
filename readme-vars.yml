@@ -88,5 +88,5 @@ app_setup_block: |
 
 # changelog
 changelogs:
-  - { date: "10.09.24:", desc: "Add aarch64 support." }
+  - { date: "09.10.24:", desc: "Add aarch64 support." }
   - { date: "26.04.24:", desc: "Initial release." }
