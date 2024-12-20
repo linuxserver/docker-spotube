@@ -604,7 +604,7 @@ graceful-fs                                                                   4.
 grep                                                                          3.8-5                                   deb                         
 groff-base                                                                    1.22.4-10                               deb                         
 gsettings-desktop-schemas                                                     43.0-1                                  deb                         
-gstreamer1.0-plugins-base                                                     1.22.0-3+deb12u2                        deb                         
+gstreamer1.0-plugins-base                                                     1.22.0-3+deb12u3                        deb                         
 gstreamer1.0-plugins-good                                                     1.22.0-5+deb12u1                        deb                         
 gtk-update-icon-cache                                                         3.24.38-2~deb12u3                       deb                         
 gzip                                                                          1.12-1                                  deb                         
@@ -845,9 +845,9 @@ libgs10-common                                                                10
 libgsm1                                                                       1.0.22-1                                deb                         
 libgssapi-krb5-2                                                              1.20.1-2+deb12u2                        deb                         
 libgssdp-1.6-0                                                                1.6.2-2                                 deb                         
-libgstreamer-gl1.0-0                                                          1.22.0-3+deb12u2                        deb                         
+libgstreamer-gl1.0-0                                                          1.22.0-3+deb12u3                        deb                         
 libgstreamer-plugins-bad1.0-0                                                 1.22.0-4+deb12u5                        deb                         
-libgstreamer-plugins-base1.0-0                                                1.22.0-3+deb12u2                        deb                         
+libgstreamer-plugins-base1.0-0                                                1.22.0-3+deb12u3                        deb                         
 libgstreamer1.0-0                                                             1.22.0-2                                deb                         
 libgtk-3-0                                                                    3.24.38-2~deb12u3                       deb                         
 libgtk-3-common                                                               3.24.38-2~deb12u3                       deb                         
