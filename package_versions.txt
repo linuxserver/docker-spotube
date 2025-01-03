@@ -610,7 +610,7 @@ grep                                                                          3.
 groff-base                                                                    1.22.4-10                               deb                         
 gsettings-desktop-schemas                                                     43.0-1                                  deb                         
 gstreamer1.0-plugins-base                                                     1.22.0-3+deb12u3                        deb                         
-gstreamer1.0-plugins-good                                                     1.22.0-5+deb12u1                        deb                         
+gstreamer1.0-plugins-good                                                     1.22.0-5+deb12u2                        deb                         
 gtk-update-icon-cache                                                         3.24.38-2~deb12u3                       deb                         
 gzip                                                                          1.12-1                                  deb                         
 has-flag                                                                      4.0.0                                   npm                         
