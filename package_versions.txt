@@ -1377,7 +1377,7 @@ spdx-exceptions                                                               2.
 spdx-expression-parse                                                         3.0.1                                   npm        (+1 duplicate)   
 spdx-expression-parse                                                         4.0.0                                   npm                         
 spdx-license-ids                                                              3.0.18                                  npm                         
-spotube                                                                       4.0.0+39                                deb                         
+spotube                                                                       4.0.1+40                                deb                         
 sprintf-js                                                                    1.1.3                                   npm                         
 ssl-cert                                                                      1.1.2                                   deb                         
 ssri                                                                          10.0.6                                  npm                         
