@@ -599,12 +599,12 @@ libavahi-common-data                                                          0.
 libavahi-common3                                                              0.8-10+deb12u1                             deb                         
 libavahi-core7                                                                0.8-10+deb12u1                             deb                         
 libavc1394-0                                                                  0.5.4-5                                    deb                         
-libavcodec59                                                                  7:5.1.6-0+deb12u1                          deb                         
-libavdevice59                                                                 7:5.1.6-0+deb12u1                          deb                         
-libavfilter8                                                                  7:5.1.6-0+deb12u1                          deb                         
-libavformat59                                                                 7:5.1.6-0+deb12u1                          deb                         
+libavcodec59                                                                  7:5.1.7-0+deb12u1                          deb                         
+libavdevice59                                                                 7:5.1.7-0+deb12u1                          deb                         
+libavfilter8                                                                  7:5.1.7-0+deb12u1                          deb                         
+libavformat59                                                                 7:5.1.7-0+deb12u1                          deb                         
 libavif15                                                                     0.11.1-1+deb12u1                           deb                         
-libavutil57                                                                   7:5.1.6-0+deb12u1                          deb                         
+libavutil57                                                                   7:5.1.7-0+deb12u1                          deb                         
 libayatana-appindicator3-1                                                    0.5.92-1                                   deb                         
 libayatana-ido3-0.4-0                                                         0.9.3-1                                    deb                         
 libayatana-indicator3-7                                                       0.9.3-1                                    deb                         
@@ -862,7 +862,7 @@ libpng16-16                                                                   1.
 libpocketsphinx3                                                              0.8+5prealpha+1-15                         deb                         
 libpolkit-agent-1-0                                                           122-3                                      deb                         
 libpolkit-gobject-1-0                                                         122-3                                      deb                         
-libpostproc56                                                                 7:5.1.6-0+deb12u1                          deb                         
+libpostproc56                                                                 7:5.1.7-0+deb12u1                          deb                         
 libproc2-0                                                                    2:4.0.2-3                                  deb                         
 libproxy1v5                                                                   0.4.18-1.2                                 deb                         
 libpsl5                                                                       0.21.2-1                                   deb                         
@@ -929,8 +929,8 @@ libstdc++-12-dev                                                              12
 libstdc++6                                                                    12.2.0-14+deb12u1                          deb                         
 libstemmer0d                                                                  2.2.0-2                                    deb                         
 libsvtav1enc1                                                                 1.4.1+dfsg-1                               deb                         
-libswresample4                                                                7:5.1.6-0+deb12u1                          deb                         
-libswscale6                                                                   7:5.1.6-0+deb12u1                          deb                         
+libswresample4                                                                7:5.1.7-0+deb12u1                          deb                         
+libswscale6                                                                   7:5.1.7-0+deb12u1                          deb                         
 libsystemd-shared                                                             252.38-1~deb12u1                           deb                         
 libsystemd0                                                                   252.38-1~deb12u1                           deb                         
 libtag1v5                                                                     1.13-2                                     deb                         
@@ -1181,7 +1181,7 @@ tags.cncf.io/container-device-interface                                       v1
 tags.cncf.io/container-device-interface/specs-go                              v0.8.0                                     go-module                   
 tags.cncf.io/container-device-interface/specs-go                              v1.0.0                                     go-module                   
 tar                                                                           1.34+dfsg-1.2+deb12u1                      deb                         
-typing-extensions                                                             4.14.1                                     python                      
+typing-extensions                                                             4.15.0                                     python                      
 tzdata                                                                        2025b-0+deb12u1                            deb                         
 ucf                                                                           3.0043+nmu1+deb12u1                        deb                         
 udev                                                                          252.38-1~deb12u1                           deb                         
