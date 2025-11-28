@@ -17,7 +17,7 @@ avahi-daemon                                                                  0.
 avahi-discover                                                                0.8-16                                  deb                         
 avahi-utils                                                                   0.8-16                                  deb                         
 backports-tarfile                                                             1.2.0                                   python                      
-base-files                                                                    13.8+deb13u1                            deb                         
+base-files                                                                    13.8+deb13u2                            deb                         
 base-passwd                                                                   3.6.7                                   deb                         
 bash                                                                          5.2.37-2+b5                             deb                         
 bash-completion                                                               1:2.16.0-7                              deb                         
