@@ -616,7 +616,7 @@ gputil                                                                        1.
 grep                                                                          3.11-4                                 deb                         
 groff-base                                                                    1.23.0-9                               deb                         
 gsettings-desktop-schemas                                                     48.0-1                                 deb                         
-gstreamer1.0-plugins-base                                                     1.26.2-1                               deb                         
+gstreamer1.0-plugins-base                                                     1.26.2-1+deb13u1                       deb                         
 gstreamer1.0-plugins-good                                                     1.26.2-1                               deb                         
 gtk-update-icon-cache                                                         4.18.6+ds-2                            deb                         
 gui                                                                           UNKNOWN                                binary                      
@@ -812,8 +812,8 @@ libgs10                                                                       10
 libgs10-common                                                                10.05.1~dfsg-1+deb13u1                 deb                         
 libgsm1                                                                       1.0.22-1+b2                            deb                         
 libgssapi-krb5-2                                                              1.21.3-5                               deb                         
-libgstreamer-gl1.0-0                                                          1.26.2-1                               deb                         
-libgstreamer-plugins-base1.0-0                                                1.26.2-1                               deb                         
+libgstreamer-gl1.0-0                                                          1.26.2-1+deb13u1                       deb                         
+libgstreamer-plugins-base1.0-0                                                1.26.2-1+deb13u1                       deb                         
 libgstreamer1.0-0                                                             1.26.2-2                               deb                         
 libgtk-3-0t64                                                                 3.24.49-3                              deb                         
 libgtk-3-common                                                               3.24.49-3                              deb                         
