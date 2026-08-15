@@ -23,7 +23,7 @@ RUN \
   apt-get update && \
   if [ -z ${SPOTUBE_VERSION+x} ]; then \
     SPOTUBE_VERSION=$(curl -sX GET "https://api.github.com/repos/KRTirtho/spotube/releases/latest" \
-      | awk '/tag_name/{print $4;exit}' FS='[""]'); \
+      | jq -r '.tag_name'); \
   fi && \
   curl -o \
     /tmp/spotube.deb -L \
