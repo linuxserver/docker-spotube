@@ -357,6 +357,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **04.04.26:** - Point to live repo endpoint at team-spotube.
 * **04.04.26:** - Make Wayland default disable with PIXELFLUX_WAYLAND=false.
 * **28.12.25:** - Add Wayland init logic.
 * **22.09.25:** - Rebase to Debian Trixie.

@@ -7,7 +7,7 @@ release_tag: latest
 ls_branch: master
 repo_vars:
   - EXT_GIT_BRANCH = 'master'
-  - EXT_USER = 'KRTirtho'
+  - EXT_USER = 'team-spotube'
   - EXT_REPO = 'spotube'
   - BUILD_VERSION_ARG = 'SPOTUBE_VERSION'
   - LS_USER = 'linuxserver'
@@ -26,3 +26,5 @@ repo_vars:
   - CI_DOCKERENV = 'TZ=US/Pacific'
   - CI_AUTH = 'user:password'
   - CI_WEBPATH = ''
+sponsor_links:
+  - { name: "Spotube", url: "https://opencollective.com/spotube" }
